@@ -46,7 +46,9 @@
 		            <div class="col-md-8">
 		                <ul class="list-inline">
 		                    {% for post in site.posts reversed %}
-		                      <li><a class="page-scroll" href="#{{ post.id }}">{{ post.category }}</a>
+													{% unless post.hidden_in_navigation %}
+			                      <li><a class="page-scroll" href="#{{ post.id }}">{{ post.category }}</a>
+			                    {% endunless %}
 		                    {% endfor %}
 		                    <li class="footer-menu-divider">&sdot;</li>
 		                    <li>

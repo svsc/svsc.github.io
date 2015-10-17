@@ -15,7 +15,9 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
               {% for post in site.posts reversed %}
-                <li><a class="page-scroll" href="#{{ post.id }}">{{ post.category }}</a>
+                {% unless post.hidden_in_navigation %}
+                  <li><a class="page-scroll" href="#{{ post.id }}">{{ post.category }}</a>
+                {% endunless %}
               {% endfor %}
             </ul>
         </div>
