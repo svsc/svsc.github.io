@@ -1,0 +1,36 @@
+---
+layout: default
+img: membership.png
+category: Membership
+title: Membership Fees
+id: membership
+description: |
+---
+  <p>Join us to sail or race. Sailing season between April and October, but winter sailing is available on a daily basis (Sundays only).
+  <table class="table table-hover">
+  <tbody>
+  <tr><th>Cost</th><th>Benefit</th></tr>
+  <tr>
+  <td>£150</td>
+  <td>Full or Familiy Membership (includes partner and children under 18)</td>
+  </tr>
+  <tr>
+  <td>£58</td>
+  <td>Cadet Membership (18 years and above in full-time education)</td>
+  </tr>
+  <tr>
+  <td>£26</td>
+  <td>Retained Member (non-active sailor)</td>
+  </tr>
+  <tr>
+  <td>Free</td>
+  <td>Honorary Member (invite only)</td>
+  </tr>
+  <tr>
+  <td>£45</td>
+  <td>Storing a boat at the club</td>
+  </tr>
+  </tbody>
+  </table>
+
+  <p><a href="http://membership.sheffieldviking.org.uk" class="btn btn-primary btn-lg pull-right">Join Now</a></p>

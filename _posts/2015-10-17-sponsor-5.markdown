@@ -1,0 +1,9 @@
+---
+layout: default
+img: noble_marine.png
+category: Sponsor
+title: Noble Marine Insurance
+id: sponsor
+description: |
+---
+  <div>SVSC is proudly supported by <a href="http://www.noblemarine.co.uk">Noble Marine</a></div>

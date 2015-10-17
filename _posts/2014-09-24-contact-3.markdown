@@ -1,0 +1,30 @@
+---
+layout: default
+img:
+category: Contact
+title: Contact Us
+id: contact
+embed: |
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/cowlibob/22265625991/in/pool-sheffieldviking/" title="IMG_0014"><img src="https://farm1.staticflickr.com/565/22265625991_14ed879c1b_z.jpg" width="400" height="225" alt="IMG_0014"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+description: |
+---
+  The club is run by a committee of members. Use the email addresses below to contact them. If you don't know who to contact, try <a href="mailto:info@sheffieldviking.org.uk">info@sheffieldviking.org.uk</a>.
+
+  <ul>
+    <li><a href="mailto:commodore@sheffieldviking.org.uk">Commodore</a> – Nick Bush</li>
+    <li><a href="mailto:vice-commodore@sheffieldviking.org.uk">Vice Commodore</a> – Adam Jones</li>
+    <li><a href="mailto:rear-commodore@sheffieldviking.org.uk">Rear Commodore</a> – Ed Cross</li>
+    <li>Honourary Treasurer – Sarah Clark</li>
+    <li><a href="mailto:secretary@sheffieldviking.org.uk">Honourary Secretary</a> – Anna Cowlishaw</li>
+    <li><a href="mailto:bosun@sheffieldviking.org.uk">Bosun</a> – Mike Bishop</li>
+    <li>Purser – Ed Cross</li>
+    <li><a href="mailto:membership@sheffieldviking.org.uk">Membership Secretary</a> –&nbsp;David Miles</li>
+    <li><a href="mailto:insurance@sheffieldviking.org.uk">Insurance Secretary</a> – Dave Fletcher</li>
+    <li><a href="mailto:viking@sheffieldviking.org.uk">Newsletter Editor</a> – Elizabeth Pilling</li>
+    <li><a href="mailto:results@sheffieldviking.org.uk">Results Secretary</a> – James Cowlishaw</li>
+    <li>Committee Member – Ava Teasdale</li>
+    <li>Committee Member – Steve Lee</li>
+    <li>Committee Member – Mick Hughes</li>
+    <li>Club Boats - Del Jenkins</li>
+    <li>Auditor - Bob Buckley</li>
+  </ul>

@@ -1,0 +1,37 @@
+{% if thecycle == 'odd' %}
+<div class="content-section-a">
+    <div class="container" id="{{ post.id }}">
+
+        <div class="row">
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <h2 class="section-heading">{{ post.title }}</h2>
+            <div class="lead">{{ post.content }}</div>
+            <div class="clearfix"></div>
+        </div>
+
+    </div>
+    <!-- /.container -->
+
+</div>
+<!-- /.content-section-a -->
+{% else %}
+
+<div class="content-section-b">
+
+    <div class="container" id="{{ post.id }}">
+
+        <div class="row">
+            <hr class="section-heading-spacer">
+            <div class="clearfix"></div>
+            <h2 class="section-heading">{{ post.title }}</h2>
+            <div class="lead">{{ post.content }}</div>
+            <div class="clearfix"></div>
+        </div>
+
+    </div>
+    <!-- /.container -->
+
+</div>
+<!-- /.content-section-b -->
+{% endif %}

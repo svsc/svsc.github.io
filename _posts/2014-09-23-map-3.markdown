@@ -1,0 +1,9 @@
+---
+layout: default
+img: map.png
+category: Map
+title: Find Us
+id: map
+description: |
+---
+Come and visit us on Loxley Road, Sheffield S6, or view a [larger map](http://www.openstreetmap.org/#map=14/53.4152/-1.5837&layers=C).

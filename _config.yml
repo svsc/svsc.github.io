@@ -1,0 +1,9 @@
+# Site settings
+url: http://sheffieldviking.org.uk
+title: Sheffield Viking Sailing Club
+email: info@sheffieldviking.org.uk
+author: SVSC
+description: > # "Dinghy sailing and racing in NW Sheffield"
+
+# Build settings
+markdown: kramdown

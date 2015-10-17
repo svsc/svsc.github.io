@@ -1,0 +1,71 @@
+{% if thecycle == 'odd' %}
+<div class="content-section-a">
+    <div class="container" id="{{ post.id }}">
+
+      <div class="row">
+          <div class="col-lg-5 col-sm-6">
+              <hr class="section-heading-spacer">
+              <div class="clearfix"></div>
+          </div>
+          <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+          </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-5 col-sm-6">
+                <h2 class="section-heading">{{ post.title }}</h2>
+                <div class="lead">{{ post.content }}</div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                {% if post.embed %}
+                  <div style="display:flex;justify-content:center;align-items:center;">
+                    <div>{{ post.embed }}</div>
+                  </div>
+                {% else %}
+                  <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                {% endif %}
+            </div>
+        </div>
+
+    </div>
+    <!-- /.container -->
+
+</div>
+<!-- /.content-section-a -->
+{% else %}
+
+<div class="content-section-b">
+
+    <div class="container" id="{{ post.id }}">
+
+      <div class="row">
+          <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+              <hr class="section-heading-spacer">
+              <div class="clearfix"></div>
+          </div>
+          <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+          </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                <h2 class="section-heading">{{ post.title }}</h2>
+                <div class="lead">{{ post.content }}</div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+              {% if post.embed %}
+                <div style="display:flex;justify-content:center;align-items:center;">
+                  <div>{{ post.embed }}</div>
+                </div>
+              {% else %}
+                <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+              {% endif %}
+            </div>
+        </div>
+
+    </div>
+    <!-- /.container -->
+
+</div>
+<!-- /.content-section-b -->
+{% endif %}
