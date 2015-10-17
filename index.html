@@ -3,3 +3,14 @@ layout: default
 title: Sheffield Viking Sailing Club
 subTitle: Dinghy racing and sailing in NW Sheffield
 ---
+<section id="services">
+<!-- Page Content -->
+{% for post in site.posts reversed %}
+  {% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
+    {% if post.layout == 'default' %}
+      {% include default_content.html %}
+    {% else %}
+      {% include wide_content.html %}
+    {% endif %}
+{% endfor %}
+</section>
