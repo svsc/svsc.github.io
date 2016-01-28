@@ -12,7 +12,7 @@ description: |
   <tr><th>Cost</th><th>Benefit</th></tr>
   <tr>
   <td>£150</td>
-  <td>Full or Familiy Membership (includes partner and children under 18)</td>
+  <td>Full or Family Membership (includes partner and children under 18)</td>
   </tr>
   <tr>
   <td>£58</td>
