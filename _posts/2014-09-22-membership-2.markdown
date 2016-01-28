@@ -33,4 +33,5 @@ description: |
   </tbody>
   </table>
 
+  <p>Come and visit us on any Sunday afternoon to chat and find out more.</p>
   <p><a href="http://membership.sheffieldviking.org.uk" class="btn btn-primary btn-lg pull-right">Join Now</a></p>
