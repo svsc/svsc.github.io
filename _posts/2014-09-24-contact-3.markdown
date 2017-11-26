@@ -11,7 +11,7 @@ description: |
   The club is run by a committee of members. Use the email addresses below to contact them. If you don't know who to contact, try <a href="mailto:info@sheffieldviking.org.uk">info@sheffieldviking.org.uk</a>.
 
   <ul>
-    <li><a href="mailto:commodore@sheffieldviking.org.uk">Commodore</a> – Mick Hughes</li>
+    <li><a href="mailto:commodore@sheffieldviking.org.uk">Commodore</a> – James Cowlishaw</li>
     <li><a href="mailto:vice-commodore@sheffieldviking.org.uk">Vice Commodore</a> – Nick Bush</li>
     <li><a href="mailto:rear-commodore@sheffieldviking.org.uk">Rear Commodore</a> – Ed Cross</li>
     <li>Honourary Treasurer – Sarah Clark</li>
@@ -26,5 +26,5 @@ description: |
     <li>Committee Member – Steve Lee</li>
     <li>Committee Member – Adam Jones</li>
     <li>Club Boats - Del Jenkins</li>
-    <li>Auditor - Bob Buckley</li>
+    <li>Auditor - Nick Bush</li>
   </ul>
