@@ -18,13 +18,13 @@ description: |
     <li><a href="mailto:secretary@sheffieldviking.org.uk">Honorary Secretary</a> – Anna Cowlishaw</li>
     <li><a href="mailto:bosun@sheffieldviking.org.uk">Bosun</a> – Mike Bishop</li>
     <li>Purser – Ed Cross</li>
-    <li><a href="mailto:membership@sheffieldviking.org.uk">Membership Secretary</a> –&nbsp;David Miles</li>
+    <li><a href="mailto:membership@sheffieldviking.org.uk">Membership Secretary</a> – Adam Jones</li>
     <li><a href="mailto:insurance@sheffieldviking.org.uk">Insurance Secretary</a> – Dave Fletcher</li>
-    <li><a href="mailto:viking@sheffieldviking.org.uk">Newsletter Editor</a> – Elizabeth Pilling</li>
+    <li><a href="mailto:viking@sheffieldviking.org.uk">Newsletter Editor</a> – John Bennet</li>
     <li><a href="mailto:results@sheffieldviking.org.uk">Results Secretary</a> – James Cowlishaw</li>
     <li>Committee Member – Ava Teasdale</li>
     <li>Committee Member – Steve Lee</li>
-    <li>Committee Member – Adam Jones</li>
+    <li>Committee Member – Elizabeth Pilling</li>
     <li>Club Boats - Del Jenkins</li>
     <li>Auditor - Nick Bush</li>
   </ul>
