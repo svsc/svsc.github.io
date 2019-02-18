@@ -6,12 +6,12 @@ title: Membership Fees
 id: membership
 description: |
 ---
-  <p>Join us to sail or race. Sailing season between April and October, but winter sailing is available on a daily basis (Sundays only).
+  <p>Join us to sail or race. Sailing season between April and October, but winter sailing is available on a weekly basis (Sundays only).
   <table class="table table-hover">
   <tbody>
   <tr><th>Cost</th><th>Benefit</th></tr>
   <tr>
-  <td>£150</td>
+  <td>£160</td>
   <td>Full or Family Membership (includes partner and children under 18)</td>
   </tr>
   <tr>
@@ -27,8 +27,12 @@ description: |
   <td>Honorary Member (invite only)</td>
   </tr>
   <tr>
-  <td>£45</td>
+  <td>£50</td>
   <td>Storing a boat at the club</td>
+  </tr>
+  <tr>
+  <td>£20</td>
+  <td>Storing a sailboard at the club</td>
   </tr>
   </tbody>
   </table>
