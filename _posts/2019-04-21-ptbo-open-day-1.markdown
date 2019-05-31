@@ -4,7 +4,8 @@ embed: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/em
 category: Open Day
 title: Push The Boat Out - Open Day
 id: ptbo
-hidden_in_navigation: false
+hidden_in_navigation: true
+published: false
 description: |
 ---
 <p>Join us to try dinghy sailing!</p>
