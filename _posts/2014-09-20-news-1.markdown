@@ -1,0 +1,9 @@
+---
+layout: wide
+img:
+category: News
+title: News
+id: news
+description: |
+---
+  <iframe src="https://sheffieldviking.tumblr.com/tagged/news" type="text/html" height="500" width="1170" class="news">
