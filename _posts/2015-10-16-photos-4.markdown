@@ -5,4 +5,4 @@ title: Recent Photos
 id: photos
 description: |
 ---
-  Visit our <a href="https://www.flickr.com/groups/sheffieldviking/pool/">photos collection</a>: <a href="https://www.flickr.com/groups/sheffieldviking/pool/"><img class="img-responsive" src="img/services/photos.jpg" alt=""></a>
+  <iframe src="https://sheffieldviking-photos.tumblr.com" type="text/html" class="news" style="width: 100%; height: 800px">
