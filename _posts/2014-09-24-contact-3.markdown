@@ -11,20 +11,20 @@ description: |
   The club is run by a committee of members. Use the email addresses below to contact them. If you don't know who to contact, try <a href="mailto:info@sheffieldviking.org.uk">info@sheffieldviking.org.uk</a>.
 
   <ul>
-    <li><a href="mailto:commodore@sheffieldviking.org.uk">Commodore</a> – Anna Cowlishaw</li>
-    <li><a href="mailto:vice-commodore@sheffieldviking.org.uk">Vice Commodore</a> – Nick Bush</li>
+    <li><a href="mailto:commodore@sheffieldviking.org.uk">Commodore</a> – Nick Bush</li>
+    <li><a href="mailto:vice-commodore@sheffieldviking.org.uk">Vice Commodore</a> – James Cowlishaw</li>
     <li><a href="mailto:rear-commodore@sheffieldviking.org.uk">Rear Commodore</a> – Ed Cross</li>
     <li>Honorary Treasurer – Sarah Clark</li>
-    <li><a href="mailto:secretary@sheffieldviking.org.uk">Honorary Secretary</a> – James Cowlishaw</li>
+    <li><a href="mailto:secretary@sheffieldviking.org.uk">Honorary Secretary</a> – Anna Cowlishaw</li>
     <li><a href="mailto:bosun@sheffieldviking.org.uk">Bosun</a> – Mike Bishop</li>
     <li>Purser – Ed Cross</li>
-    <li><a href="mailto:membership@sheffieldviking.org.uk">Membership Secretary</a> – Adam Jones</li>
+    <li><a href="mailto:membership@sheffieldviking.org.uk">Membership Secretary</a> – Mick Hughes</li>
     <li><a href="mailto:insurance@sheffieldviking.org.uk">Insurance Secretary</a> – Dave Fletcher</li>
     <li><a href="mailto:viking@sheffieldviking.org.uk">Newsletter Editor</a> – John Bennet</li>
-    <li><a href="mailto:results@sheffieldviking.org.uk">Results Secretary</a> – James Cowlishaw</li>
-    <li>Committee Member – Ava Teasdale</li>
-    <li>Committee Member – Elizabeth Pilling</li>
-    <li>Committee Member – Rob Keen</li>
-    <li>Committee Member – Steve Lee</li>
+    <li><a href="mailto:results@sheffieldviking.org.uk">Results Secretary</a> – Andy Samanjoul</li>
     <li>Club Boats - Del Jenkins</li>
+    <li>Committee Member – Ava Teasdale</li>
+    <li>Committee Member – Rob Keen</li>
+    <li>Committee Member – Sandy Scott</li>
+    <li>Committee Member – Cameron Duffield</li>
   </ul>
