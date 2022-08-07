@@ -5,7 +5,7 @@ category: Contact
 title: Contact Us
 id: contact
 embed: |
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/cowlibob/22265625991/in/pool-sheffieldviking/" title="IMG_0014"><img src="https://farm1.staticflickr.com/565/22265625991_14ed879c1b_z.jpg" width="400" height="225" alt="IMG_0014"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <img src="https://res.cloudinary.com/correctedtime/image/upload/f_jpg/w_400/v1653253764/Sheffield%20Viking%20SC/IMG_0768_rwcxvj.jpg" width="400" height="267" alt="Some of the committee">
 description: |
 ---
   The club is run by a committee of members. Use the email addresses below to contact them. If you don't know who to contact, try <a href="mailto:info@sheffieldviking.org.uk">info@sheffieldviking.org.uk</a>.
