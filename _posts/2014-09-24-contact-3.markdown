@@ -11,11 +11,11 @@ description: |
   The club is run by a committee of members. Use the email addresses below to contact them. If you don't know who to contact, try <a href="mailto:info@sheffieldviking.org.uk">info@sheffieldviking.org.uk</a>.
 
   <ul>
-    <li><a href="mailto:commodore@sheffieldviking.org.uk">Commodore</a> – Nick Bush</li>
+    <li><a href="mailto:commodore@sheffieldviking.org.uk">Commodore</a> – Anna Cowlishaw</li>
     <li><a href="mailto:vice-commodore@sheffieldviking.org.uk">Vice Commodore</a> – James Cowlishaw</li>
     <li><a href="mailto:rear-commodore@sheffieldviking.org.uk">Rear Commodore</a> – Ed Cross</li>
     <li>Honorary Treasurer – Sarah Clark</li>
-    <li><a href="mailto:secretary@sheffieldviking.org.uk">Honorary Secretary</a> – Anna Cowlishaw</li>
+    <li><a href="mailto:secretary@sheffieldviking.org.uk">Honorary Secretary</a> – Nick Bush</li>
     <li><a href="mailto:bosun@sheffieldviking.org.uk">Bosun</a> – Mike Bishop</li>
     <li>Purser – Ed Cross</li>
     <li><a href="mailto:membership@sheffieldviking.org.uk">Membership Secretary</a> – Mick Hughes</li>
