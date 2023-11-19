@@ -8,4 +8,11 @@ description: |
 ---
   <p>Visit corrected time to see your recent progress. Are you more competitive in a strong wind or lighter airs?</p>
   <p><a class="btn btn-primary btn-lg pull-right" href="http://correctedtime.com/clubs/sheffield-viking-sc/dashboard">View Results</a></p>
-  <div class="correctedtime-wrapper"><iframe src="https://correctedtime.com/events/latest?embed=https://www.sheffieldviking.org.uk" width="100%" height="600px"></iframe></div>
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="correctedtime-wrapper"><iframe src="https://correctedtime.com/events/latest?embed=https://www.sheffieldviking.org.uk" width="100%" height="600px"></iframe></div>
+      </div>
+    </div>
+  </div>
