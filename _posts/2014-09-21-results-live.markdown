@@ -1,7 +1,7 @@
 ---
 layout: wide
 category: Results
-title: 
+title: ""
 id: results-live
 description: |
 ---
