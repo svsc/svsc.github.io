@@ -38,4 +38,4 @@ description: |
   </table>
 
   <p>Come and visit us on any Sunday afternoon to chat and find out more.</p>
-  <p><a href="https://membership.sheffieldviking.org.uk/memberships" class="btn btn-primary btn-lg pull-right">Join Now</a></p>
+  <p><a href="https://membership.sheffieldviking.org.uk" class="btn btn-primary btn-lg pull-right">Join Now</a></p>
