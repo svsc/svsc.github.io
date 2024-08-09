@@ -4,6 +4,7 @@ category: Results
 title: ""
 id: results-live
 description: |
+hidden_in_navigation: true
 ---
   <div class="container">
     <div class="row">
